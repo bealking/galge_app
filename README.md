@@ -2,7 +2,9 @@
 
 Galge App的发布仓库。
 
-App预览图（锐意开发中……OTL）
+安卓安卓包请至release目录下载。
+
+App预览图。
 
 
 | ![](./sample/1.jpg)    |  ![](./sample/2.jpg)    | ![](./sample/3.jpg)   |
